@@ -1,0 +1,23 @@
+.div1{
+    background-color: #F8DAF8; 
+    width: 800px; 
+    height: 260px; 
+    border: 3px solid #947DDB; 
+    margin: 10px;
+    padding: 5px;
+}
+.caixa{
+    background-color: #A0A7E3; 
+    width: 100px; 
+    height: 100px; 
+    border-radius: 50px; 
+    margin: 2px;
+}
+.titulo{
+    font-family: monospace;
+    font-size: 25px;
+}
+.CorPadrao {
+    color: #A0A7E3; 
+    font-size: 50px;    
+}
